@@ -1,0 +1,22 @@
+id: DA7BF1A0F
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-11-12T09:16:57+00:00'
+last_modified: '2022-05-26T11:19:07.885958+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    c7a9:
+      image_group_id: I1PD95871
+      title: གསང་བ་ཐུགས་ཀྱི་སྒྲོན་མ།
+      total_pages: 1902
+      order: 26
+      base_file: c7a9.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
